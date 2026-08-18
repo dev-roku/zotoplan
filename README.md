@@ -1,2 +1,1 @@
-# zotoplan
-c
+I’m building Zotoplan, a stock trading platform where users can register, track stocks, manage portfolios, and simulate buy/sell orders. It will include market, limit, stop-loss, conditional orders, charts, watchlists, P&L tracking, alerts, and order history.
